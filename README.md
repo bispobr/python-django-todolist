@@ -1,4 +1,4 @@
-#python-django-todolist
+## python-django-todolist
 
 Este repositório contém um aplicação simples construído usando Django. O objetivo deste repositório é praticar e construir um simples sistema de todolist através do python.
 
